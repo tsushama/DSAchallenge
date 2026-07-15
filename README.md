@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tsushama/DSAchallenge/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tsushama/DSAchallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tsushama/DSAchallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
