@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/tsushama/DSAchallenge/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/tsushama/DSAchallenge/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsushama/DSAchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/tsushama/DSAchallenge/tree/master/0875-koko-eating-bananas) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tsushama/DSAchallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tsushama/DSAchallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/tsushama/DSAchallenge/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
