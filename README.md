@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/tsushama/DSAchallenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tsushama/DSAchallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tsushama/DSAchallenge/tree/master/0051-n-queens) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tsushama/DSAchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/tsushama/DSAchallenge/tree/master/1260-shift-2d-grid) |
 ## Design
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/tsushama/DSAchallenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tsushama/DSAchallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tsushama/DSAchallenge/tree/master/0051-n-queens) |
