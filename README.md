@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tsushama/DSAchallenge/tree/master/0090-subsets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsushama/DSAchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/tsushama/DSAchallenge/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/tsushama/DSAchallenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tsushama/DSAchallenge/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsushama/DSAchallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tsushama/DSAchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tsushama/DSAchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tsushama/DSAchallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -177,4 +179,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
+| [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
