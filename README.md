@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tsushama/DSAchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
 | [0520-detect-capital](https://github.com/tsushama/DSAchallenge/tree/master/0520-detect-capital) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tsushama/DSAchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tsushama/DSAchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tsushama/DSAchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/tsushama/DSAchallenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tsushama/DSAchallenge/tree/master/0046-permutations) |
