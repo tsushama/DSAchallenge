@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/tsushama/DSAchallenge/tree/master/0098-validate-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
