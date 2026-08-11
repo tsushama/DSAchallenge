@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tsushama/DSAchallenge/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsushama/DSAchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/tsushama/DSAchallenge/tree/master/0733-flood-fill) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/tsushama/DSAchallenge/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/tsushama/DSAchallenge/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tsushama/DSAchallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tsushama/DSAchallenge/tree/master/0994-rotting-oranges) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/tsushama/DSAchallenge/tree/master/0733-flood-fill) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
