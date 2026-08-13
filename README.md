@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
 | [0520-detect-capital](https://github.com/tsushama/DSAchallenge/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tsushama/DSAchallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1446-consecutive-characters](https://github.com/tsushama/DSAchallenge/tree/master/1446-consecutive-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tsushama/DSAchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tsushama/DSAchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tsushama/DSAchallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
