@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tsushama/DSAchallenge/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tsushama/DSAchallenge/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tsushama/DSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tsushama/DSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
