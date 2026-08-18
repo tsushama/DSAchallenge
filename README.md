@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/tsushama/DSAchallenge/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/tsushama/DSAchallenge/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/tsushama/DSAchallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tsushama/DSAchallenge/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/tsushama/DSAchallenge/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tsushama/DSAchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/tsushama/DSAchallenge/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tsushama/DSAchallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tsushama/DSAchallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
