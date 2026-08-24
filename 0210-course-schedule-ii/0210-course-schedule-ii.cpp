@@ -3,7 +3,7 @@ public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
          vector<int> adj[numCourses];
         for(auto it:prerequisites){
-            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]);
         }
         vector<int> indegree(numCourses,0);
         for(int i=0;i<numCourses;i++){
@@ -28,7 +28,7 @@ public:
                  if(indegree[it]==0) q.push(it);
              }
         }
-        reverse(topo.begin(),topo.end());
+       // reverse(topo.begin(),topo.end());
         if(topo.size()==numCourses) return topo;
         return {};
     }
