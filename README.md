@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tsushama/DSAchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
 | [0520-detect-capital](https://github.com/tsushama/DSAchallenge/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tsushama/DSAchallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tsushama/DSAchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/tsushama/DSAchallenge/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tsushama/DSAchallenge/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tsushama/DSAchallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tsushama/DSAchallenge/tree/master/0207-course-schedule) |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/tsushama/DSAchallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tsushama/DSAchallenge/tree/master/3904-smallest-stable-index-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
