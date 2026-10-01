@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/tsushama/DSAchallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tsushama/DSAchallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/tsushama/DSAchallenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tsushama/DSAchallenge/tree/master/1386-cinema-seat-allocation) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tsushama/DSAchallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tsushama/DSAchallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tsushama/DSAchallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/tsushama/DSAchallenge/tree/master/1260-shift-2d-grid) |
 ## Design
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/tsushama/DSAchallenge/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/tsushama/DSAchallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tsushama/DSAchallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
