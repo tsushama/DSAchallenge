@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tsushama/DSAchallenge/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tsushama/DSAchallenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tsushama/DSAchallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tsushama/DSAchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tsushama/DSAchallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/tsushama/DSAchallenge/tree/master/0875-koko-eating-bananas) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tsushama/DSAchallenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tsushama/DSAchallenge/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tsushama/DSAchallenge/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tsushama/DSAchallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tsushama/DSAchallenge/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tsushama/DSAchallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/tsushama/DSAchallenge/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/tsushama/DSAchallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tsushama/DSAchallenge/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -314,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tsushama/DSAchallenge/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/tsushama/DSAchallenge/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tsushama/DSAchallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
@@ -380,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tsushama/DSAchallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
