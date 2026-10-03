@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/tsushama/DSAchallenge/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tsushama/DSAchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/tsushama/DSAchallenge/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tsushama/DSAchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tsushama/DSAchallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tsushama/DSAchallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/tsushama/DSAchallenge/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/tsushama/DSAchallenge/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tsushama/DSAchallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/tsushama/DSAchallenge/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tsushama/DSAchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tsushama/DSAchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tsushama/DSAchallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
