@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
 | [0520-detect-capital](https://github.com/tsushama/DSAchallenge/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/tsushama/DSAchallenge/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tsushama/DSAchallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tsushama/DSAchallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/tsushama/DSAchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/tsushama/DSAchallenge/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tsushama/DSAchallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tsushama/DSAchallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/tsushama/DSAchallenge/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tsushama/DSAchallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tsushama/DSAchallenge/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/tsushama/DSAchallenge/tree/master/1927-sum-game) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsushama/DSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/tsushama/DSAchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tsushama/DSAchallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
 ## Game Theory
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/tsushama/DSAchallenge/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tsushama/DSAchallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
