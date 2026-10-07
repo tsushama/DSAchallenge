@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0520-detect-capital](https://github.com/tsushama/DSAchallenge/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/tsushama/DSAchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0856-score-of-parentheses) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tsushama/DSAchallenge/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0301-remove-invalid-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tsushama/DSAchallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tsushama/DSAchallenge/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/tsushama/DSAchallenge/tree/master/0733-flood-fill) |
