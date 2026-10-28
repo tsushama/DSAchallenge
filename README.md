@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tsushama/DSAchallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tsushama/DSAchallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tsushama/DSAchallenge/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/tsushama/DSAchallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/tsushama/DSAchallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tsushama/DSAchallenge/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/tsushama/DSAchallenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/tsushama/DSAchallenge/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tsushama/DSAchallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/tsushama/DSAchallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tsushama/DSAchallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tsushama/DSAchallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tsushama/DSAchallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/tsushama/DSAchallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/tsushama/DSAchallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/tsushama/DSAchallenge/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tsushama/DSAchallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/tsushama/DSAchallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
