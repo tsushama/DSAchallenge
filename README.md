@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tsushama/DSAchallenge/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/tsushama/DSAchallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tsushama/DSAchallenge/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/tsushama/DSAchallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/tsushama/DSAchallenge/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tsushama/DSAchallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/tsushama/DSAchallenge/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/tsushama/DSAchallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsushama/DSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/tsushama/DSAchallenge/tree/master/0152-maximum-product-subarray) |
