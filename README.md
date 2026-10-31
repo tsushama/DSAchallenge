@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tsushama/DSAchallenge/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsushama/DSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/tsushama/DSAchallenge/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/tsushama/DSAchallenge/tree/master/0229-majority-element-ii) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsushama/DSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/tsushama/DSAchallenge/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/tsushama/DSAchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tsushama/DSAchallenge/tree/master/0787-cheapest-flights-within-k-stops) |
