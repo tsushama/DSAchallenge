@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tsushama/DSAchallenge/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/tsushama/DSAchallenge/tree/master/0229-majority-element-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tsushama/DSAchallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0542-01-matrix](https://github.com/tsushama/DSAchallenge/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsushama/DSAchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/tsushama/DSAchallenge/tree/master/0721-accounts-merge) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tsushama/DSAchallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/tsushama/DSAchallenge/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsushama/DSAchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tsushama/DSAchallenge/tree/master/0836-rectangle-overlap) |
