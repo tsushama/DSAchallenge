@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tsushama/DSAchallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/tsushama/DSAchallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsushama/DSAchallenge/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tsushama/DSAchallenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tsushama/DSAchallenge/tree/master/0344-reverse-string) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tsushama/DSAchallenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tsushama/DSAchallenge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/tsushama/DSAchallenge/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/tsushama/DSAchallenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0301-remove-invalid-parentheses) |
