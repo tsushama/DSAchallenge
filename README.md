@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tsushama/DSAchallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsushama/DSAchallenge/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/tsushama/DSAchallenge/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/tsushama/DSAchallenge/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tsushama/DSAchallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsushama/DSAchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/tsushama/DSAchallenge/tree/master/0721-accounts-merge) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tsushama/DSAchallenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/tsushama/DSAchallenge/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/tsushama/DSAchallenge/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/tsushama/DSAchallenge/tree/master/0520-detect-capital) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tsushama/DSAchallenge/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/tsushama/DSAchallenge/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/tsushama/DSAchallenge/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/tsushama/DSAchallenge/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tsushama/DSAchallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
