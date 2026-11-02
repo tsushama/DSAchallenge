@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tsushama/DSAchallenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tsushama/DSAchallenge/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/tsushama/DSAchallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tsushama/DSAchallenge/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/tsushama/DSAchallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/tsushama/DSAchallenge/tree/master/0344-reverse-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/tsushama/DSAchallenge/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/tsushama/DSAchallenge/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/tsushama/DSAchallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tsushama/DSAchallenge/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/tsushama/DSAchallenge/tree/master/0721-accounts-merge) |
