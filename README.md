@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tsushama/DSAchallenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tsushama/DSAchallenge/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsushama/DSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/tsushama/DSAchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/tsushama/DSAchallenge/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tsushama/DSAchallenge/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/tsushama/DSAchallenge/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/tsushama/DSAchallenge/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/tsushama/DSAchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/tsushama/DSAchallenge/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/tsushama/DSAchallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tsushama/DSAchallenge/tree/master/0242-valid-anagram) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tsushama/DSAchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tsushama/DSAchallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tsushama/DSAchallenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tsushama/DSAchallenge/tree/master/0547-number-of-provinces) |
