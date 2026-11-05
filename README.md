@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/tsushama/DSAchallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/tsushama/DSAchallenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tsushama/DSAchallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/tsushama/DSAchallenge/tree/master/1386-cinema-seat-allocation) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tsushama/DSAchallenge/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/tsushama/DSAchallenge/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tsushama/DSAchallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tsushama/DSAchallenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/tsushama/DSAchallenge/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tsushama/DSAchallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tsushama/DSAchallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tsushama/DSAchallenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tsushama/DSAchallenge/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tsushama/DSAchallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tsushama/DSAchallenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tsushama/DSAchallenge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tsushama/DSAchallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tsushama/DSAchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/tsushama/DSAchallenge/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tsushama/DSAchallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tsushama/DSAchallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tsushama/DSAchallenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tsushama/DSAchallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
